@@ -11,7 +11,7 @@
 
 
 	<figure class="foto-inicial">
-		<img src="_imagens/perfil.jpg">
+		<img src="_imagens/Perfil.jpg">
 	</figure>
 
 	<nav>
