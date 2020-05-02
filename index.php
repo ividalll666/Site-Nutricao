@@ -17,7 +17,7 @@
 	<nav>
 		<ul class="menu">
 			<li> Inicio</li>
-			<li> Matérias</li>
+			<li onclick="window.location.href="dietadedox.php"> Matérias</li>
 			<li> Sobre nós </li>
 
 
