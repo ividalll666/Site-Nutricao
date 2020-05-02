@@ -17,7 +17,7 @@
 	<nav>
 		<ul class="menu">
 			<li> Inicio</li>
-			<li onclick="window.location.href="dietadedox.php"> Matérias</li>
+			<li> <a href = "dietadetox.php"> Matérias </a> </li>
 			<li> Sobre nós </li>
 
 
